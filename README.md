@@ -41,9 +41,6 @@ Ini adalah proyek website sederhana bernama **NavStore**, platform untuk layanan
 - Desain responsif dasar
 - Menggunakan ikon dari Boxicons CDN
 
-## 📸 Screenshot
-*Kamu bisa menambahkan screenshot halaman website di sini untuk tampilan yang lebih menarik.*
-
 ## 📬 Kontak
 Ingin kerja sama atau ada pertanyaan? Hubungi saya melalui:
 - LinkedIn: [https://www.linkedin.com/in/satriyo-akbar-maulana-b23894220/]
